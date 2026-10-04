@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+# generated output and publisher-owned class files are never committed
+journals/
+_build/
+*.pdf
+Definitions/
+sn-jnl.cls
+interact.cls
